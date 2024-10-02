@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A passionate Mobile Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🌱 I’m currently working on **Web RTC with riverpod**
 
-- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Flutter, Mobile App development**
+- 🌱 I’m currently learning about **LLMS**
+
+- 💬 Ask me about **Flutter, kotlin, Swift,Full-Stack development**
 
 - 📫 How to reach me **anaswaheed1799@gmail.com**
 
