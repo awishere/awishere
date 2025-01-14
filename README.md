@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">Software Engineer from Pakistan</h3>
 
 
 
 - 🌱 I’m currently learning about **LLMS**
 
-- 💬 Ask me about **Flutter, kotlin, Swift,Full-Stack development**
+- 💬 Ask me about **Flutter, Full-Stack development**
 
 - 📫 How to reach me **anaswaheed1799@gmail.com**
 
